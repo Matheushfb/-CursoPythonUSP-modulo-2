@@ -16,5 +16,3 @@ def elefante(n):
             i = i + 1
         if i == n:
             return str(i) + " elefantes  " + incomodam(i) + " muito maaais"
-
-print(elefante(5))
