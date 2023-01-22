@@ -12,5 +12,5 @@ def encontra_impares(lista, impar=[]): #Parametro impar sendo uma lista com o va
 
 
 
-#lista=[4]
-#print(encontra_impares(lista))
+lista=[1,2,3,4]
+print(encontra_impares(lista))
